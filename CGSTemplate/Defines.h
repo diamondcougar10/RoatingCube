@@ -1,0 +1,8 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#define RASTER_WIDTH 500
+#define RASTER_HEIGHT 500
+#define NUM_PIXELS (RASTER_WIDTH * RASTER_HEIGHT)
+
+#endif 
